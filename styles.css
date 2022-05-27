@@ -1,0 +1,46 @@
+html {
+    font-size: 10px;
+}
+
+body {
+    text-align: center;
+    color: #061c38;
+}
+
+p, h2{
+    font-size: 1.5rem;
+}
+
+/* Id's*/
+
+#title {
+    font-size: 3.5rem;
+    background:rgba(128, 128, 128, 0.096);
+}
+
+#main {
+    text-align: center;
+    margin: 20px 20px;
+}
+
+#image {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    width: 500px;
+    border-radius: 8px;
+    margin: 0 auto;
+}
+
+#img-div {
+    background: rgba(128, 128, 128, 0.096);
+    padding: 15px 2px;
+}
+
+#img-caption {
+    margin: 0;
+    line-height: 2rem;
+    font-size: 1.5rem;
+}
+
+/* Classes */
